@@ -1551,3 +1551,11 @@ F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\obj\Debug\netcoreapp3.1\KoolExplorer.cs
 F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\obj\Debug\netcoreapp3.1\KoolExplorer.dll
 F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\obj\Debug\netcoreapp3.1\KoolExplorer.pdb
 F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\obj\Debug\netcoreapp3.1\KoolExplorer.genruntimeconfig.cache
+F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\bin\Debug\netcoreapp3.1\Core\obj\Core.csproj.nuget.dgspec.json
+F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\bin\Debug\netcoreapp3.1\Core\obj\project.assets.json
+F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\bin\Debug\netcoreapp3.1\DAL\obj\DAL.csproj.nuget.dgspec.json
+F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\bin\Debug\netcoreapp3.1\DAL\obj\project.assets.json
+F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\bin\Debug\netcoreapp3.1\KoolExplorer\obj\KoolExplorer.csproj.nuget.dgspec.json
+F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\bin\Debug\netcoreapp3.1\KoolExplorer\obj\project.assets.json
+F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\bin\Debug\netcoreapp3.1\Services\obj\project.assets.json
+F:\NTU\Y2S2\SE\KoolExplorer\KoolExplorer\bin\Debug\netcoreapp3.1\Services\obj\Services.csproj.nuget.dgspec.json
