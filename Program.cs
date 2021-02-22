@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using KoolExplorer.Controllers;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
@@ -13,6 +14,11 @@ namespace KoolExplorer
     {
         public static void Main(string[] args)
         {
+            GovAPIController gov = new GovAPIController();
+            //gov.EnrolmentMOEKindergartens().GetAwaiter().GetResult();
+            //gov.NetEnrolmentRatio().GetAwaiter().GetResult();
+            gov.ListingOfCentreService().GetAwaiter().GetResult();
+
             CreateHostBuilder(args).Build().Run();
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\65875\\Desktop\\KookExplorer\\KoolExplorer\\KoolExplorer.csproj": {}
+    "C:\\Users\\65875\\Desktop\\KoolExplorer\\KoolExplorer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\65875\\Desktop\\KookExplorer\\KoolExplorer\\KoolExplorer.csproj": {
+    "C:\\Users\\65875\\Desktop\\KoolExplorer\\KoolExplorer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\65875\\Desktop\\KookExplorer\\KoolExplorer\\KoolExplorer.csproj",
+        "projectUniqueName": "C:\\Users\\65875\\Desktop\\KoolExplorer\\KoolExplorer.csproj",
         "projectName": "KoolExplorer",
-        "projectPath": "C:\\Users\\65875\\Desktop\\KookExplorer\\KoolExplorer\\KoolExplorer.csproj",
+        "projectPath": "C:\\Users\\65875\\Desktop\\KoolExplorer\\KoolExplorer.csproj",
         "packagesPath": "C:\\Users\\65875\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\65875\\Desktop\\KookExplorer\\KoolExplorer\\obj\\",
+        "outputPath": "C:\\Users\\65875\\Desktop\\KoolExplorer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[3.1.11, )"

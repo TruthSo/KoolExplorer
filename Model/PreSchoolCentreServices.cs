@@ -12,7 +12,7 @@ namespace KoolExplorer.Model
         public string class_of_licence { get; set; }
         public string type_of_service { get; set; }
         public string levels_offered { get; set; }
-        public decimal fees { get; set; }
+        public decimal fees { get; set; }       
         public int type_of_citizenship { get; set; }
         public DateTime last_updated { get; set; }
         public string remarks { get; set; }
